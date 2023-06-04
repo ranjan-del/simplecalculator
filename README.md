@@ -1,5 +1,5 @@
 # simplecalculator
-Simple calculator using  JAVA , CSS  and JavaScript
+Simple calculator using  JAVA , CSS  and JavaScript . \n
 use all the three files to create  a new styleies calculator
 
 #HOW TO RUN
